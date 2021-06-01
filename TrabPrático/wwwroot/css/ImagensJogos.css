@@ -11,7 +11,7 @@ img.ImagemJogo {
     width: 200px;
     height: 250px;
     border: 4px solid black;
-    object-fit: fill;
+    object-fit: fill ;
 }
 
 div.overlay {
